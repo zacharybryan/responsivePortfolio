@@ -12,12 +12,6 @@
             margin: 0 auto;
         }
         
-        #headshot {
-            max-width: 100%;
-            height: auto;
-            max-height: 50%;
-        }
-        
         .fa {
             font-size: 20px;
             width: 40px;
