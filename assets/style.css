@@ -12,6 +12,10 @@
             margin: 0 auto;
         }
         
+        .card-title {
+            width: 100%;
+        }
+        
         .fa {
             font-size: 20px;
             width: 40px;
