@@ -8,17 +8,19 @@ This is the code for my responsive portfolio. These pages were created with Boot
 
 ## Resources ##
 
+---
 
 
 [Bootstrap 4.4](https://getbootstrap.com/)
 
 ### Navigate My Portfolio ###
 
+---
+
 * [About Me](https://zacharybryan.github.io/responsivePortfolio/)
 * [My Portfolio](https://zacharybryan.github.io/responsivePortfolio/portfolio.html)
 * [Contact Me](https://zacharybryan.github.io/responsivePortfolio/contact.html)
 
----
 
 ![Screenshot of index.html](./assets/screenshot.png)
 
