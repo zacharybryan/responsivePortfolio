@@ -14,11 +14,9 @@ This is the code for my responsive portfolio. These pages were created with Boot
 
 ### Navigate My Portfolio ###
 
-<ul>
-    <li><a href="./index.html">About Me</a></li>
-    <li><a href="./portfolio.html">My Work</a></li>
-    <li><a href="./contact.html">Contact</a></li>
-</ul> 
+* [About Me](https://zacharybryan.github.io/responsivePortfolio/)
+* [My Portfolio](https://zacharybryan.github.io/responsivePortfolio/portfolio.html)
+* [Contact Me](https://zacharybryan.github.io/responsivePortfolio/contact.html)
 
 ---
 
